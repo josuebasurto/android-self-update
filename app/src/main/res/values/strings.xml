@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Self Update App 1.2</string>
+    <string name="msg_install_finished">Install finished</string>
+    <string name="msg_install_unsuccesful">Install unsuccessful</string>
+</resources>
