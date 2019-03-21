@@ -2,6 +2,10 @@
 
 App that self updates from google play or url controlled by firebase.
 
+![](docs/images/fb_remoteconfig.png)
+
+![](docs/images/android_alert.png)
+
 ## Update
 
 This repo is NOT COMPLETED.
